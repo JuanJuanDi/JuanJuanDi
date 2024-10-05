@@ -1,23 +1,24 @@
-✖️ Hola, soy Juan Diego ✖️
+✖️ Hey, I’m Juan Diego ✖️
 
-👁️ Me apasiona el desarrollo fullstack porque me permite combinar creatividad, cultura y tecnología para crear experiencias digitales únicas. 
-   - Empecé a programar con el deseo de proyectar mis ideas artísticas a través de la tecnología, conectando el arte, la moda, la música con el desarrollo web.
+👁️   I love fullstack development because it lets me mix creatividad, cultura, and tecnologia to make cool digital experiences.
+   I started coding to bring my artistic ideas to life through technology, connecting arte, moda, and musica with web development.
     
-🎯 Estoy al inicio de mi viaje, aprendiendo cada día sobre todo lo que puedo: desde diseñar interfaces atractivas hasta construir arquitecturas backend sólidas. 
-    Mi meta es dominar tanto el frontend como el backend para, en el futuro, crear locuras que mezclen mis pasiones con el mundo digital.
+🎯 I’m just getting started on this journey, learning a bit more every day: from designing eye-catching interfaces to building       solid backends. 
+    My goal is to get the hang of both frontend and backend so I can create awesome projects that blend my passions with the mundo digital.
     
-🔗 Busco colaborar en proyectos que fusionen lo técnico con lo artístico, donde se puedan crear soluciones web para ideas frescas y originales.
-    Me inspiran los retos que combinan la tecnología con la cultura, el arte y la música.
-    
-📲 Cómo contactarme: [mi LinkedIn](https://www.linkedin.com/in/juanjuandii/)
+🔗 I’m looking to team up on projects that mix tech with arte, where we can whip up web solutions for fresh and original ideas.
+      I’m all about the challenges that bring together tecnologia, cultura, arte, and musica.
 
-🖤 Dato curioso: Siempre tengo música sonando mientras programo. 
-    Creo que cada línea de código tiene su propio ritmo, y me encanta encontrar esa conexión entre lo digital y lo musical.
     
-🚀 Estoy particularmente interesado en proyectos interactivos y en explorar el desarrollo de aplicaciones que integren experiencias artísticas. 
-    A corto plazo, quiero completar un proyecto personal mostrando mi forma de ver el mudno, y a largo plazo, mi sueño es contribuir a una plataforma que fomente la explosion artistica.
+📲 ow to reach me: [my LinkedIn](https://www.linkedin.com/in/juanjuandii/)
 
-*“ Todo esto es paso a paso, primero se debe empezar por lo basico, para llegar a lo extravagante que deseo, deseenme suerte.”* 
+🖤  Random thought: I always have musica playing while I code.
+      I feel like each line of code has its own beat, and I love finding that connection between the mundo digital and musica.
+    
+🚀 I’m super into interactive projects and want to explore making apps that bring artistic experiences to life.
+      In the short term, I want to wrap up a personal project that shows how I see the world, and long-term, my dream is to help create a platform that sparks artistic explosion.
+
+“It’s all about taking it step by step; you’ve got to start with the basics to get to the wild stuff I want. Wish me luck!”
 
 ```javascript
 console.log("¡nos vemos cuando nos veamos!");
