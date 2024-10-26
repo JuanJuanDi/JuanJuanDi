@@ -2,11 +2,10 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYyeDFxdDQzcmo2N2I2d3ExYTl2Mm5zdWI4NTlxZDkxajBmdmVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" alt="GIF" style="width:200px; height:200px; margin-right: 20px;"/>
-  <h1 style="margin: 0; font-size: 5em;">✖️ Hey, I’m Juan Diego ✖️</h1>
+  <h1 style="margin: 0;;">✖️ Hey, I’m Juan Diego ✖️</h1>
 </div>
 
 
-#
 <div align="center">
   <a href="https://www.linkedin.com/in/juanjuandii/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 40px;"/>
