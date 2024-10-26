@@ -1,7 +1,10 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE1OXU5bHo5cGNhNHc4MDExZHVldnl1M2lsZ2w1eXVqM3lwc2UyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ebkfIyR4vM9ry/giphy.gif" width="100%" height="130" />
 
-<div align="center" style="display: flex; align-items: ; justify-content: center;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYyeDFxdDQzcmo2N2I2d3ExYTl2Mm5zdWI4NTlxZDkxajBmdmVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" alt="GIF" style="width:200px; height:200px; margin-right: 20px;" />✖️ Hey, I’m Juan Diego ✖️
+<div align="center">
+  <h4 style="display: inline-block; margin: 0;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYyeDFxdDQzcmo2N2I2d3ExYTl2Mm5zdWI4NTlxZDkxajBmdmVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" alt="GIF" style="width:50px; height:50px; margin-right: 10px; vertical-align: middle;" />
+    ✖️ Hey, I’m Juan Diego ✖️
+  </h4>
 </div>
 
 #
