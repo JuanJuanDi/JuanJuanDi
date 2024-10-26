@@ -1,6 +1,6 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE1OXU5bHo5cGNhNHc4MDExZHVldnl1M2lsZ2w1eXVqM3lwc2UyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ebkfIyR4vM9ry/giphy.gif" width="100%" height="130" />
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div align="center" style="display: flex; align-items: ; justify-content: ;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYyeDFxdDQzcmo2N2I2d3ExYTl2Mm5zdWI4NTlxZDkxajBmdmVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" alt="GIF" style="width:200px; height:200px; margin-right: 20px;" />
   <h2 style="margin: ;">✖️ Hey, I’m Juan Diego ✖️</h2>
 </div>
