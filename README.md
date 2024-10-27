@@ -99,3 +99,9 @@ I’m all about the challenges that bring together technology, culture, art, and
 🚀 I’m super into interactive projects and want to explore making apps that bring artistic experiences to life.
 
 In the short term, I want to wrap up a personal project that shows how I see the world, and long-term, my dream is to help create a platform that sparks artistic explosion.
+#
+
+```javascript
+console.log("¡nos vemos cuando nos veamos!");
+
+#
