@@ -1,6 +1,12 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE1OXU5bHo5cGNhNHc4MDExZHVldnl1M2lsZ2w1eXVqM3lwc2UyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ebkfIyR4vM9ry/giphy.gif" width="100%" height="130" />
 
-# <img src="[https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYyeDFxdDQzcmo2N2I2d3ExYTl2Mm5zdWI4NTlxZDkxajBmdmVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif)" width="100"/>✖️ Hey, I’m Juan Diego ✖️
+# <div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <div style="width: 200px; height: 200px; position: relative;">
+    <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100%" height="100%" style="position: absolute; top: 0; left: 0;" />
+  </div>
+  <h4 style="margin: 0; font-size: 1.5em;">✖️ Hey, I’m Juan Diego ✖️</h4>
+</div>
+
 #
 <div align="center">
   <a href="https://www.linkedin.com/in/juanjuandii/">
