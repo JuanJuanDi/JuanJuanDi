@@ -103,5 +103,3 @@ In the short term, I want to wrap up a personal project that shows how I see the
 
 ```javascript
 console.log("¡nos vemos cuando nos veamos!");
-
-#
